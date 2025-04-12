@@ -33,7 +33,7 @@ A simple and fun command-line game built using C++. The objective is to dig for 
 
 ## 📸 Preview
 
-    . . . . - . . . .
+. . . . - . . . . .
 
 . . + . . . . . . .
 
