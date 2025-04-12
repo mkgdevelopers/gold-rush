@@ -33,3 +33,49 @@ A simple and fun command-line game built using C++. The objective is to dig for 
 
 ## 📸 Preview
 
+    . . . . - . . . .
+
+. . + . . . . . . .
+
+. . . - . . . . . .
+
+. + . . . . . . . .
+
+. . . . - . + . . .
+
+
+
+---
+
+## ✨ Feedback System
+
+- **80+**: Superb!
+- **60-79**: Not bad.
+- **30-59**: Needs practice...
+- **Below 30**: Better luck next time 😅
+
+---
+
+## 🚀 Run the Game
+
+Make sure you have a C++ compiler installed.
+
+### Linux / macOS:
+```bash
+g++ -o goldrush goldrush.cpp
+./goldrush
+
+
+Windows:
+
+g++ -o goldrush.exe goldrush.cpp
+goldrush.exe
+
+📁 File Structure
+
+goldrush.cpp     // Main game logic
+README.md        // This file
+
+📜 License
+
+Free to use, modify, and share! Just give credits if you build something awesome on top of it.
